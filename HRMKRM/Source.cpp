@@ -12,6 +12,7 @@ int main()
 	getIntB(pB);
 	AA(pA);
 	BB(pB);
+	return 0;
 }
 void AA(int* pA)
 {
